@@ -1,6 +1,6 @@
 body {
-  background-color: #2b2a30;  /* dark gray with warmth */
-  color: #f8e1ec;             /* very light pink text */
+  background-color: #3c2f3d;  /* muted plum */
+  color: #ffe6f0;             /* very light rose text */
   font-family: "Georgia", serif;
   line-height: 1.7;
   max-width: 800px;
@@ -8,23 +8,24 @@ body {
   padding: 20px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #ff9eb5;  /* soft pastel pink */
-  text-shadow: 1px 1px 3px #1c1b1f;
+h1, h2, h3 {
+  color: #ff80ab; /* bright rose pink */
+  text-shadow: 1px 1px 4px #2a1f2b;
 }
 
 a {
-  color: #f783ac;
-  border-bottom: 2px solid #f783ac;
+  color: #ff99c8;
+  border-bottom: 2px solid #ff99c8;
 }
 a:hover {
-  color: #ffb3c6;
-  border-color: #ffb3c6;
+  color: #ffc2d1;
+  border-color: #ffc2d1;
 }
 
-code, pre {
-  background-color: #3a353d;
-  color: #ffccd5;
-  border-radius: 6px;
-  padding: 0.5em;
+blockquote {
+  background-color: #4b3b4d;
+  border-left: 4px solid #ff80ab;
+  color: #ffd6e0;
+  font-style: italic;
+  padding: 1em;
 }
