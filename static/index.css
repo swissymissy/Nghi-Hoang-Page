@@ -1,0 +1,30 @@
+body {
+  background-color: #2b2a30;  /* dark gray with warmth */
+  color: #f8e1ec;             /* very light pink text */
+  font-family: "Georgia", serif;
+  line-height: 1.7;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff9eb5;  /* soft pastel pink */
+  text-shadow: 1px 1px 3px #1c1b1f;
+}
+
+a {
+  color: #f783ac;
+  border-bottom: 2px solid #f783ac;
+}
+a:hover {
+  color: #ffb3c6;
+  border-color: #ffb3c6;
+}
+
+code, pre {
+  background-color: #3a353d;
+  color: #ffccd5;
+  border-radius: 6px;
+  padding: 0.5em;
+}
