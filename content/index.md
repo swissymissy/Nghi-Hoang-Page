@@ -9,6 +9,10 @@ Recently, I've been exploring **APIs** and how they connect applications togethe
 >
 > -- Some name (placeholder) 
 
+## Coursework
+
+Program Design, Analysis of Algorithms , Operating System, Data Structure , Database Design, Secure Coding, Software Engineering
+
 ## Technical skills
 
 - Programming languges: **Python , C/C++ , SQL , Ruby , HTML/CSS**
@@ -19,12 +23,15 @@ Recently, I've been exploring **APIs** and how they connect applications togethe
 
 Projects that I have built, including team project and personal project:
 
-- [Project 1: USF Dine SMart Web App Placeholder](https://github.com/Spaghetti-Tech/USF-DineSmart-App)
-- [Project 2: Static Site Generator placeholder](https://github.com/swissymissy/Static-Site-Generator)
-- [Project 3: Asteroid placeholder](https://github.com/swissymissy/Asteroid)
+- [USF Dine SMart Web App](https://github.com/Spaghetti-Tech/USF-DineSmart-App)
+- [Static Site Generator](https://github.com/swissymissy/Static-Site-Generator)
+- [Asteroid ](https://github.com/swissymissy/Asteroid)
 - [AI-Agent](https://github.com/swissymissy/AI-agent)
 
+## Contact
 
-Want to get in touch? [Contact me here](/contact).
+```
+Email: pnghi1606@mail.com
+```
 
-This site was generated with a custom-built [static site generator](https://github.com/swissymissy/Static-Site-Generator), one of my projects.
+_This site was generated with a custom-built [static site generator](https://github.com/swissymissy/Static-Site-Generator), one of my projects._
