@@ -7,40 +7,23 @@ Recently, I've been exploring **APIs** and how they connect applications togethe
 
 > "Some quote here that I like."
 >
-> -- Some name 
+> -- Some name (placeholder) 
 
-## Projects
+## Technical skills
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+Programming languges: **Python , C/C++ , SQL , Ruby , HTML/CSS**
+Databases: **SQLite**
+Cloud & Tools: **Git/GitHub** , **Linux**
 
-## Reasons I like Tolkien
+## Projects & Experience
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+Projects that I have built, including team project and personal project:
 
-## My favorite characters (in order)
+- [Project 1: USF Dine SMart Web App Placeholder](https://github.com/Spaghetti-Tech/USF-DineSmart-App)
+- [Project 2: Static Site Generator placeholder](https://github.com/swissymissy/Static-Site-Generator)
+- [Project 3: Asteroid placeholder](https://github.com/swissymissy/Asteroid)
+- [AI-Agent](https://github.com/swissymissy/AI-agent)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
 
 Want to get in touch? [Contact me here](/contact).
 
