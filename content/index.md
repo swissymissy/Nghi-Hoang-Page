@@ -1,14 +1,15 @@
-# Tolkien Fan Club
+# Nghi Hoang Page
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![nghi's picture](/images/nghi.jpg)
 
-Here's the deal, **I like Tolkien**.
+Hello, my name is Nghi Hoang, and I'm a senior Computer Science student at University of South Florida. I enjoy building software projects that combine creativity and problem solving.
+Recently, I've been exploring **APIs** and how they connect applications together, and I'm planning to expand my skills into cloud computing, especially platforms like **AWS**. I'm always excited to learn new technologies and apply them to real-world problems.
 
-> "I am in fact a Hobbit in all but size."
+> "Some quote here that I like."
 >
-> -- J.R.R. Tolkien
+> -- Some name 
 
-## Blog posts
+## Projects
 
 - [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
