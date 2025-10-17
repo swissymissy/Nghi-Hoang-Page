@@ -11,9 +11,9 @@ Recently, I've been exploring **APIs** and how they connect applications togethe
 
 ## Technical skills
 
-Programming languges: **Python , C/C++ , SQL , Ruby , HTML/CSS**
-Databases: **SQLite**
-Cloud & Tools: **Git/GitHub** , **Linux**
+- Programming languges: **Python , C/C++ , SQL , Ruby , HTML/CSS**
+- Databases: **SQLite**
+- Cloud & Tools: **Git/GitHub** , **Linux**
 
 ## Projects & Experience
 
